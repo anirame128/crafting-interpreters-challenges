@@ -1,0 +1,7 @@
+Oracle_JDK-23.jdk/
+
+.vscode/
+
+# Ignore default executable
+output
+
