@@ -1,0 +1,4 @@
+Just-in-time compilation tends to be the fastest way to implement dynamically typed languages, but not all of them use it. 
+What reasons are there to not JIT?
+
+Answer: There is extra performance overhead for software that has a short life-time. 

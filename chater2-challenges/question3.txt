@@ -1,0 +1,3 @@
+Most Lisp implementations that compile to C also contain an interpreter that lets them execute Lisp code on the fly as well. Why?
+
+Answer: Interactive development using the REPL, dynamic features, runtime code loading, etc 
