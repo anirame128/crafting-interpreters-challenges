@@ -1,0 +1,5 @@
+The lexical grammars of Python and Haskell are not regular. What does that mean, and why aren’t they?
+
+Answer: These grammars are not regular meaning they cannot be recognized by a finite state automaton.
+This is because both languages are indentation based and to keep track of these indentations, you would need a stack,
+which is beyond the scope of a finite automaton. 

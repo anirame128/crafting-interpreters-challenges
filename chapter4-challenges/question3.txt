@@ -1,0 +1,6 @@
+Our scanner here, like most, discards comments and whitespace since those aren’t needed by the parser. 
+Why might you want to write a scanner that does not discard those? 
+What would it be useful for?
+
+Answer: A scanner that doesn't discard comments and whitespace would be useful for code formatting and refactoring.
+Tools must maintain the original layout and comments. 
